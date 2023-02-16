@@ -22,6 +22,8 @@ Here is a growing collection of resources and helpful commands to know when work
 
 - [git status](./commands/Status.md)
 
+- [git clone](./commands/Clone.md)
+
 ## Resources
 
 - [Git Init Documentation](https://git-scm.com/docs/git-init)
