@@ -18,6 +18,8 @@ Here is a growing collection of resources and helpful commands to know when work
 
 - [git push](./commands/Push.md)
 
+- [git pull](./commands/Pull.md)
+
 ## Resources
 
 - [Git Init Documentation](https://git-scm.com/docs/git-init)
