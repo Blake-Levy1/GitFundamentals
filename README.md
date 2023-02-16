@@ -16,6 +16,8 @@ Here is a growing collection of resources and helpful commands to know when work
 
 - [git remote](./commands/Remote.md)
 
+- [git push](./commands/Push.md)
+
 ## Resources
 
 - [Git Init Documentation](https://git-scm.com/docs/git-init)
